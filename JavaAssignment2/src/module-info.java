@@ -1,0 +1,2 @@
+module javaassignment2 {
+}

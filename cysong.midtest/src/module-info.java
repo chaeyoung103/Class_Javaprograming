@@ -1,0 +1,2 @@
+module cysong.midtest {
+}
